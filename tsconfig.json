@@ -1,4 +1,4 @@
-{
+{ 
   "include": [
     "src",
     "src/app/modules/academicFaculty/academicFaculty.constant.ts"
