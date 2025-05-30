@@ -1,4 +1,7 @@
+# Hazrat Ali
+
 ### Online Cow Selling Backend for Eid Ul Adha
+
 
 This project is a simple backend project for a cow hut. It is a simple project that allows a user to add cows to the cow hut, and get the status of the cow hut. Seller can also sell cows from the cow hut app. and buyer can buy cows from the cow hut app. 
 
