@@ -4,7 +4,7 @@ import {
   ICowLabel,
   ICowLocation,
 } from './cow.interface';
-
+// Cow Constants
 export const CowLocation: ICowLocation[] = [
   'Dhaka',
   'Chattogram',
