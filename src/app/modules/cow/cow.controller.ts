@@ -7,7 +7,7 @@ import { ICow } from './cow.interface';
 import { CowService } from './cow.service';
 import { paginationFields } from '../../../constants/pagination';
 import { cowFilterableFields } from './cow.constants';
-
+// cow controller
 const addCow: RequestHandler = catchAsync(
   async (req: Request, res: Response) => {
 
