@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 import { IGenericErrorResponse } from '../interfaces/common';
 import { IGenericErrorMessage } from '../interfaces/error';
-
+// Handle Validation Erros
 const handleValidationError = (
   error: mongoose.Error.ValidationError
 ): IGenericErrorResponse => {
