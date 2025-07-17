@@ -1,5 +1,5 @@
 import { IGenericErrorMessage } from './error';
-
+// common ts
 export type IGenericResponse<T> = {
   meta: {
     page: number;
